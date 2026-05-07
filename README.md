@@ -20,8 +20,8 @@ Bilgi işlem, veri analizi ve siber güvenlik alanlarındaki teorik altyapımı,
 
 ### 📫 Bana Ulaşın!
 
-- 📧 **Email:** [Resmi mail adresini buraya ekle]
-- 💼 **LinkedIn:** [LinkedIn profil linkini buraya ekle]
+- 📧 **Email:** emreduyar.tr@gmail.com
+- 💼 **LinkedIn:** (LinkedIn profil linkini buraya ekle]](https://tr.linkedin.com/in/emre-duyar-728379329?trk=people-guest_people_search-card)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Artem1sEmre&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="Artem1sEmre" />
