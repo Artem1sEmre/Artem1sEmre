@@ -10,7 +10,7 @@
 
 ### 🛠️ Teknolojiler ve Yeteneklerim
 
-- **Yazılım & Veritabanı:** 🐍 **Python** (İleri Düzey), 🗄️ **SQL** (İleri Düzey). *(Ayrıca birçok farklı programlama diline ve geliştirme ortamına aşinalık).*
+- **Yazılım & Veritabanı:** 🐍 **Python** (İleri Düzey), 🗄️ **SQL** (İleri Düzey). *((HTML-C++-CSS-PHP)Ayrıca birçok farklı programlama diline ve geliştirme ortamına aşinalık).*
 - **Networking:** Cisco CLI, Router/Switch Konfigürasyonları, Firewall Analizi.
 - **Security:** Ağ Güvenlik Tasarımı, ACL Analizi.
 - **Araştırma & Yönetim:** Teknoloji Yönetimi, Ürün Yaşam Döngüsü, İnovasyon Teorileri.
