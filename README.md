@@ -18,7 +18,7 @@
 ### 📈 Hedeflerim
 Bilgi işlem, veri analizi ve siber güvenlik alanlarındaki teorik altyapımı, IT stajları ve sektördeki pratik uygulamalarla birleştirerek kurumsal ağ mimarileri ve teknoloji yönetimi konusunda uzmanlaşmak.
 
-???Ayrıca yeni startup ve Girişimcilik alanlarına ve yeni fikirleri aşırı yatkın ve açığım büyük bir hırsım var???
+📈📈📈Ayrıca yeni startup ve Girişimcilik alanlarına ve yeni fikirlere aşırı yatkın ve açığım büyük bir hırsım var📈📈📈
 
 ### 📫 Bana Ulaşın!
 
